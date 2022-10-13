@@ -1,2 +1,2 @@
-# Laravel--GroWiser-API
-All API's are present here.
+# Laravel--GroWiser
+GroWiser Amin Panel
